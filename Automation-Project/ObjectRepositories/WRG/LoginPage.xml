@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+	<pageObject>
+		<title>Mercer Select UK Home</title>
+	</pageObject>
+
+	<UserName>
+		<id>email</id>
+	</UserName>
+
+	<Password>
+		<id>password</id>
+	</Password>
+
+</root>

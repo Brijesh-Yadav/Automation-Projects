@@ -1,0 +1,8 @@
+For 64-bit Windows installations:
+ 
+the key is HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BFCACHE. 
+Please note that the FEATURE_BFCACHE subkey may or may not be present, and should be created if it is not present. 
+Important: Inside this key, create a DWORD value named iexplore.exe with the value of 0. 
+
+Set the security zones level same for all zones, It should be either checked or unchecked.
+

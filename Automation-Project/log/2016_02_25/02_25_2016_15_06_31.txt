@@ -1,0 +1,178 @@
+2016.02.25 03:06:31   info : Selenium version :: 2.45.0
+2016.02.25 03:06:31   info : Download fodler path created!!
+2016.02.25 03:06:31   info : date_time_down_folder C:\Users\brijesh-yadav\workspace\Automation-Project\Downloads\2016_02_25\time_15_06_31\
+2016.02.25 03:06:32   info : Total number of applications :: 1
+2016.02.25 03:06:32   info : Application Name - WRG
+2016.02.25 03:06:32   info : TestData_Sheet path:: C:\Users\brijesh-yadav\workspace\Automation-Project/TestCases/WRG.xlsx
+2016.02.25 03:06:32   info : Sheet name: Test Case
+2016.02.25 03:06:32   info : WRG sheetname found!!
+2016.02.25 03:06:32   info : Total row 41
+2016.02.25 03:06:32   info : After row validation for blank or null!!
+2016.02.25 03:06:32   info : Total final row 24
+2016.02.25 03:06:32   info : Total number of test cases to be executed :: 1
+2016.02.25 03:06:32   info : PrevTestID - null == null && row 1<= 24
+2016.02.25 03:06:32   info : Test ID TestCase1 : previous test step/row 0 status is Passed and value of next test step/row is :: 1
+2016.02.25 03:06:32   info : 
+
+2016.02.25 03:06:32   info : -------------------- Executing Testcase ID TestCase1 and test step : 1 ---------------------- 
+2016.02.25 03:06:34   info : Opening Application..
+2016.02.25 03:06:38   info : Browser is opened with http://qa.uk.select.mercer.com/
+2016.02.25 03:06:39   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:39   info : restult status : 1
+2016.02.25 03:06:40   info : Test ID TestCase1 : previous test step/row 1 status is Passed and value of next test step/row is :: 2
+2016.02.25 03:06:40   info : 
+
+2016.02.25 03:06:40   info : -------------------- Executing Testcase ID TestCase1 and test step : 2 ---------------------- 
+2016.02.25 03:06:41   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:41   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/LoginPage.xml
+2016.02.25 03:06:41   info : Title in xml file - Mercer Select UK Home
+2016.02.25 03:06:41   info : Title of the page after - switching window To: Mercer Select UK Home
+2016.02.25 03:06:41   info : Desired window is activated!!
+2016.02.25 03:06:41   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/LoginPage.xml
+2016.02.25 03:06:41   info : id object successfully mapped!!
+2016.02.25 03:06:41   info : id object contains property value !!
+2016.02.25 03:06:41   info : Property name - id
+2016.02.25 03:06:41   info : Property value - email
+2016.02.25 03:06:41   info : Finding id element on webpage..
+2016.02.25 03:06:41   info : Element found!!
+2016.02.25 03:06:41   info : ObjectTag input and ObjectType email
+2016.02.25 03:06:41   info : Enter data operation
+2016.02.25 03:06:41   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/LoginPage.xml
+2016.02.25 03:06:41   info : id object successfully mapped!!
+2016.02.25 03:06:41   info : id object contains property value !!
+2016.02.25 03:06:41   info : Property name - id
+2016.02.25 03:06:41   info : Property value - email
+2016.02.25 03:06:41   info : Finding id element on webpage..
+2016.02.25 03:06:41   info : Element found!!
+2016.02.25 03:06:41   info : ValueToEnter brijesh-yadav
+2016.02.25 03:06:41   info : Entered value is brijesh-yadav
+2016.02.25 03:06:41   info : Attribute entered value brijesh-yadav
+2016.02.25 03:06:42   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:43   info : restult status : 1
+2016.02.25 03:06:43   info : Test ID TestCase1 : previous test step/row 2 status is Passed and value of next test step/row is :: 3
+2016.02.25 03:06:43   info : 
+
+2016.02.25 03:06:43   info : -------------------- Executing Testcase ID TestCase1 and test step : 3 ---------------------- 
+2016.02.25 03:06:44   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:44   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/LoginPage.xml
+2016.02.25 03:06:44   info : id object successfully mapped!!
+2016.02.25 03:06:44   info : id object contains property value !!
+2016.02.25 03:06:44   info : Property name - id
+2016.02.25 03:06:44   info : Property value - password
+2016.02.25 03:06:44   info : Finding id element on webpage..
+2016.02.25 03:06:44   info : Element found!!
+2016.02.25 03:06:44   info : ObjectTag input and ObjectType password
+2016.02.25 03:06:44   info : Enter data operation
+2016.02.25 03:06:44   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/LoginPage.xml
+2016.02.25 03:06:44   info : id object successfully mapped!!
+2016.02.25 03:06:44   info : id object contains property value !!
+2016.02.25 03:06:44   info : Property name - id
+2016.02.25 03:06:44   info : Property value - password
+2016.02.25 03:06:44   info : Finding id element on webpage..
+2016.02.25 03:06:44   info : Element found!!
+2016.02.25 03:06:44   info : ValueToEnter mercer@21
+2016.02.25 03:06:44   info : Entered value is mercer@21
+2016.02.25 03:06:44   info : Attribute entered value mercer@21
+2016.02.25 03:06:45   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:45   info : restult status : 1
+2016.02.25 03:06:45   info : Test ID TestCase1 : previous test step/row 3 status is Passed and value of next test step/row is :: 4
+2016.02.25 03:06:45   info : 
+
+2016.02.25 03:06:45   info : -------------------- Executing Testcase ID TestCase1 and test step : 4 ---------------------- 
+2016.02.25 03:06:46   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:46   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/G_buttons.xml
+2016.02.25 03:06:46   info : Defined excel object tag is not found in xml!!
+2016.02.25 03:06:46   info : Object is not defined in xml!!
+2016.02.25 03:06:46   info : page object present in excel : 1
+2016.02.25 03:06:46   info : Under single object handle operation!!
+2016.02.25 03:06:46   info : col 6 data :  and col 5 data : Submit
+2016.02.25 03:06:46   info : Normal click operation !!
+2016.02.25 03:06:46   info : Checking for object in click
+2016.02.25 03:06:46   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/G_buttons.xml
+2016.02.25 03:06:46   info : xpath object successfully mapped!!
+2016.02.25 03:06:46   info : xpath object contains property value !!
+2016.02.25 03:06:46   info : Property name - xpath
+2016.02.25 03:06:46   info : Property value - //input[@value="Submit"]
+2016.02.25 03:06:46   info : Finding xpath element on webpage..
+2016.02.25 03:06:47   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:47   info : Element found!!
+2016.02.25 03:06:47   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/G_buttons.xml
+2016.02.25 03:06:47   info : xpath object successfully mapped!!
+2016.02.25 03:06:47   info : xpath object contains property value !!
+2016.02.25 03:06:47   info : Property name - xpath
+2016.02.25 03:06:47   info : Property value - //input[@value="Submit"]
+2016.02.25 03:06:47   info : Finding xpath element on webpage..
+2016.02.25 03:06:48   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:48   info : Element found!!
+2016.02.25 03:06:56   info : clicked on Submit
+2016.02.25 03:06:57   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:57   info : restult status : 1
+2016.02.25 03:06:57   info : Test ID TestCase1 : previous test step/row 4 status is Passed and value of next test step/row is :: 5
+2016.02.25 03:06:57   info : 
+
+2016.02.25 03:06:57   info : -------------------- Executing Testcase ID TestCase1 and test step : 5 ---------------------- 
+2016.02.25 03:06:58   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:06:58   info : not doing anything!!
+2016.02.25 03:06:58   info : Navigating to another url..
+2016.02.25 03:07:03   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:07:03   info : restult status : 1
+2016.02.25 03:07:03   info : Test ID TestCase1 : previous test step/row 5 status is Passed and value of next test step/row is :: 6
+2016.02.25 03:07:03   info : 
+
+2016.02.25 03:07:03   info : -------------------- Executing Testcase ID TestCase1 and test step : 6 ---------------------- 
+2016.02.25 03:07:04   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:07:04   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/bulb.xml
+2016.02.25 03:07:04   info : Defined excel object tag is not found in xml!!
+2016.02.25 03:07:04   info : Object is not defined in xml!!
+2016.02.25 03:07:04   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/bulb.xml
+2016.02.25 03:07:04   info : xpath object successfully mapped!!
+2016.02.25 03:07:04   info : xpath object contains property value !!
+2016.02.25 03:07:04   info : Property name - xpath
+2016.02.25 03:07:04   info : Property value - //h1/img
+2016.02.25 03:07:04   info : Finding xpath element on webpage..
+2016.02.25 03:07:05   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:07:05   info : Element found!!
+2016.02.25 03:07:06   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:07:06   info : restult status : 1
+2016.02.25 03:07:07   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:07:08   info : restult status : 1
+2016.02.25 03:07:08   info : Test ID TestCase1 : previous test step/row 6 status is Passed and value of next test step/row is :: 7
+2016.02.25 03:07:08   info : 
+
+2016.02.25 03:07:08   info : -------------------- Executing Testcase ID TestCase1 and test step : 7 ---------------------- 
+2016.02.25 03:07:09   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:07:09   info : FiledName action and FiledValue contains_text
+2016.02.25 03:07:09   info : Xml obj_repo path C:\Users\brijesh-yadav\workspace\Automation-Project/ObjectRepositories/WRG/bulb.xml
+2016.02.25 03:07:09   info : Defined excel object tag is not found in xml!!
+2016.02.25 03:07:09   info : size of the element return by xmlreading is 0
+2016.02.25 03:07:09   warn : exceptionHandler called!!
+2016.02.25 03:07:10   info : Current WebDriver Win Count is:: 1
+2016.02.25 03:07:10   error : java.lang.NullPointerException
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 7 status is Failed and value of next test step/row is :: 8
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 8 status is Failed and value of next test step/row is :: 9
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 9 status is Failed and value of next test step/row is :: 10
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 10 status is Failed and value of next test step/row is :: 11
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 11 status is Failed and value of next test step/row is :: 12
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 12 status is Failed and value of next test step/row is :: 13
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 13 status is Failed and value of next test step/row is :: 14
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 14 status is Failed and value of next test step/row is :: 15
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 15 status is Failed and value of next test step/row is :: 16
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 16 status is Failed and value of next test step/row is :: 17
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 17 status is Failed and value of next test step/row is :: 18
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 18 status is Failed and value of next test step/row is :: 19
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 19 status is Failed and value of next test step/row is :: 20
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 20 status is Failed and value of next test step/row is :: 21
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 21 status is Failed and value of next test step/row is :: 22
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 22 status is Failed and value of next test step/row is :: 23
+2016.02.25 03:07:10   info : Test ID TestCase1 : previous test step/row 23 status is Failed and value of next test step/row is :: 24
+2016.02.25 03:07:10   info : Row TestCase1!=null || (null==null)) && (24<=24)
+2016.02.25 03:07:10   info : Status :: Failed :: Finalizing result report
+2016.02.25 03:07:12   info : Driver is quit
+2016.02.25 03:07:12   info : Execution for WRG is completed..Now executing next application..
+2016.02.25 03:07:12   info : 
+
+2016.02.25 03:07:12   info : /*************************************************************************/
+2016.02.25 03:07:12   info : /**************   Execution completed           **************************/
+2016.02.25 03:07:12   info : /**************************************************************************/
+2016.02.25 03:07:12   info : 
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+	<Edit_profile>
+		<Xpath>//input[@value="Edit Profile"]</Xpath>
+	</Edit_profile>
+
+	<Update>
+		<Xpath>//input[@value="Update"]</Xpath>
+	</Update>
+
+	<Cancel>
+		<Xpath>//input[@value="Cancel"]</Xpath>
+	</Cancel>
+
+	<Reset>
+		<Xpath>//input[@value="Reset"]</Xpath>
+	</Reset>
+
+	<Begin>
+		<Xpath>//input[@value="Begin"]</Xpath>
+	</Begin>
+
+	<Confirm>
+		<Xpath>//input[@value="Confirm"]</Xpath>
+	</Confirm>
+
+	<OK>
+		<Xpath>//input[@value="OK"]</Xpath>
+	</OK>
+
+	<Submit>
+		<Xpath>//input[@value="Submit"]</Xpath>
+	</Submit>
+
+	<Generate>
+		<Xpath>//input[@value="Generate"]</Xpath>
+	</Generate>
+
+</Root>
+

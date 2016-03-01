@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+	<diversity>
+		<linktext>Diversity &amp; Inclusion</linktext>
+	</diversity>
+	//article/div[1]/div[1]
+
+	<Executive>
+		<linktext>Executive Rewards</linktext>
+	</Executive>
+
+	<diversity_val>
+		<xpath>//article/div[1]/div[1]</xpath>
+	</diversity_val>
+	
+
+	<Executive_brd>
+		<xpath>//article/div/div[2]</xpath>
+	</Executive_brd>
+
+</root>

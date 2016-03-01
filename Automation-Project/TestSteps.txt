@@ -1,0 +1,35 @@
+
+Steps in POC with Selenium IDE
+01. Launch Url
+02. Click world link
+03. Click United Kingdom link
+04. Navigation to another url
+05. Click email link
+06. Type Reciepeint email id in email window
+07. Type Comments in email window
+08. select and unselect radio button
+09. Select and unselect checkbox
+10. close email window
+11. Click world link
+12. Navigation to another link
+13. Click a link
+14. click Insight Link
+15. Click Next 
+16. Click another link
+17. Click Home link
+18. Validate text "World Home'
+
+
+Steps in POC with Existing framework
+
+01. Login into application
+02. navigate to blurb url
+03. Validate presence of text data
+04. navigate to "From mercer" url
+05. Validate presence of heading
+06. navigate to "mercer select" page
+07. Fill the email field
+08. navigate to "From mercer" url
+09. Validate "view by topic" filter for Diversity 
+10. Validate "view by topic" Executive rewards
+
