@@ -11,6 +11,11 @@ public class StringComparison {
 		
 		System.out.println(s1+ "");
 		
+		
+		System.out.println(s1+ "");
+		
+		System.out.println(s1+ "");
+		
 		/*
 		if(s1.equals(s2)){
 			System.out.println("match");

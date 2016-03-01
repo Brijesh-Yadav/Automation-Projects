@@ -1,0 +1,18 @@
+2016.03.01 05:05:07   info : Selenium version :: 2.45.0
+2016.03.01 05:05:07   info : Download fodler path created!!
+2016.03.01 05:05:07   info : date_time_down_folder C:\Users\brijesh-yadav\Desktop\gitrepo\gitrepo\Automation-Project\Downloads\2016_03_01\time_17_05_07\
+2016.03.01 05:05:08   info : Total number of applications :: 1
+2016.03.01 05:05:08   info : Application Name - WRG
+2016.03.01 05:05:08   info : TestData_Sheet path:: C:\Users\brijesh-yadav\Desktop\gitrepo\gitrepo\Automation-Project/TestCases/WRG.xlsx
+2016.03.01 05:05:08   info : Sheet name: Test Case
+2016.03.01 05:05:08   info : WRG sheetname found!!
+2016.03.01 05:05:08   info : Total row 41
+2016.03.01 05:05:08   info : After row validation for blank or null!!
+2016.03.01 05:05:08   info : Total final row 24
+2016.03.01 05:05:08   info : Total number of test cases to be executed :: 1
+2016.03.01 05:05:08   info : PrevTestID - null == null && row 1<= 24
+2016.03.01 05:05:08   info : Test ID TestCase1 : previous test step/row 0 status is Passed and value of next test step/row is :: 1
+2016.03.01 05:05:08   info : 
+
+2016.03.01 05:05:08   info : -------------------- Executing Testcase ID TestCase1 and test step : 1 ---------------------- 
+2016.03.01 05:05:11   info : Opening Application..
